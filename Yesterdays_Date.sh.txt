@@ -1,2 +1,0 @@
-dt=$(perl -e 'use POSIX;print strftime "%Y-%m-%d",localtime time-86400;')
-echo $dt
